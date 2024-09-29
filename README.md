@@ -31,7 +31,8 @@ Here's a more concise and professional version with the name "ScrapeSense":
 1. Clone the repository:
 
    ```bash
-   git clone https://sriramkrish68/chat-with-website.git
+ git clone https://github.com/Ruthikajayaprakash/ScrapeSense.git
+
    ```
 
 2. Navigate to the project:
