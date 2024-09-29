@@ -97,4 +97,3 @@ We welcome contributions! If you're interested in contributing to **ScrapeSense*
 
 --- 
 
-This README file is structured, clear, and professional, with all essential sections for a complete and polished presentation of your project. Let me know if you need any adjustments!
