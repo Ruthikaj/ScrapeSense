@@ -1,4 +1,4 @@
-Here’s a professional and polished README file for your project, **ScrapeSense**:
+
 
 ---
 
